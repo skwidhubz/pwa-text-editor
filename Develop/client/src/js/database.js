@@ -22,7 +22,7 @@ export const putDb = async (content) => {
     console.log('🚀 - data saved to the database', result);
 };
 
-// TODO: Add logic for a method that gets all the content from the database
+// Logic for a method that gets all the content from the database
 export const getDb = async () => {
   const contactDb = await openDB('jate', 1);
   const tx = contactDb.transaction('jate', 'readonly');

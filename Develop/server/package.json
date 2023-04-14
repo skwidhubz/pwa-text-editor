@@ -11,7 +11,7 @@
         "server": "nodemon server.js --ignore client"
     },
     "keywords": [],
-    "author": "",
+    "author": "Tom Parker aka skwidhubz",
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.1"

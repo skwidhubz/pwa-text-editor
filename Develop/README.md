@@ -72,5 +72,5 @@ https://limitless-mesa-21260.herokuapp.com/
 
 
 **License**
--
-- Copyright (c) Anna Marcus. MIT license.
+- MIT
+- T.Parker [skwidhubz](https://github.com/skwidhubz)
