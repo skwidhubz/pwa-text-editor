@@ -13,13 +13,7 @@
 
 **Project Description**
 -
-A text editor web application which can be downloaded and used without internet connection.
-
-
-![alt text](Assets/Screenshot%202023-04-10%20at%2020.34.17.png) 
-
-https://limitless-mesa-21260.herokuapp.com/
-
+A text editor web application which can be downloaded and used without internet connection
 
 
 **How to Run**
