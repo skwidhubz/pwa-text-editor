@@ -15,6 +15,7 @@
 -
 A text editor web application which can be downloaded and used without internet connection
 
+![](/client/src/images/screenshot_app.png)
 
 **How to Run**
 -
