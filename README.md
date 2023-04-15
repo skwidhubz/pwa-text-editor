@@ -15,20 +15,25 @@
 -
 A text editor web application which can be downloaded and used without internet connection
 
-![](/client/src/images/screenshot_app.png)
+[Link to deployed application](https://tmp-text-edit-pwa.herokuapp.com/)
+
+![](./Assets/screenshot_2.png)
 
 **How to Run**
 -
 1. This application will use the following npm packages:
-    - npm install express 
-    - npm install --save-dev webpack 
-    - npm install webpack-dev-server --save-dev 
-    - npm install --save-dev webpack-pwa-manifest 
-    - npm install babel (Babel)
-    - npm install --save-dev css-loader 
-    - npm install concurrently --save 
-    - npm npm install idb
+    - express 
+    - webpack 
+    - webpack-dev-server
+    - webpack-pwa-manifest 
+    - babel (Babel)
+    - css-loader 
+    - concurrently
+    - idb
 
+2. Run the application locally with the commands:
+    - npm install
+    - npm run start
 
 **User Story**
 -
